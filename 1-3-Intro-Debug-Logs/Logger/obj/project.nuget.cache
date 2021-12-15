@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VCdX4nw1v38CJVpmNe6sxTfRuS2xIhgKyfe5qG58L8440S96WF9LohmcUIalG/YgPc7PxFLIoZZv6Uv3GW575A==",
+  "success": true,
+  "projectFilePath": "/home/ubuntu20/Documents/dotnet6/1-3-Intro-Debug-Logs/Logger/Logger.csproj",
+  "expectedPackageFiles": [
+    "/home/ubuntu20/.nuget/packages/serilog/2.10.0/serilog.2.10.0.nupkg.sha512",
+    "/home/ubuntu20/.nuget/packages/serilog.sinks.console/4.0.1/serilog.sinks.console.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
