@@ -1,0 +1,12 @@
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/UnitTestingCodeCoverage/Numbers/bin/Debug/net6.0/Numbers.deps.json
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/UnitTestingCodeCoverage/Numbers/bin/Debug/net6.0/Numbers.dll
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/UnitTestingCodeCoverage/Numbers/bin/Debug/net6.0/ref/Numbers.dll
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/UnitTestingCodeCoverage/Numbers/bin/Debug/net6.0/Numbers.pdb
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfoInputs.cache
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfo.cs
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.csproj.CoreCompileInputs.cache
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.dll
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/ref/Numbers.dll
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.pdb
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.csproj.AssemblyReference.cache
