@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ckSLb4lOuz0c7FeRrdeIloOTVEUjIftlD+YVuGLICVc7G0idPEVwDdFsZuTU+tIIF8rkT3PyKjiCVmYYs9i11A==",
+  "success": true,
+  "projectFilePath": "/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/TestsEnConsola/TestsEnConsola.csproj",
+  "expectedPackageFiles": [
+    "/home/ubuntu20/.nuget/packages/coverlet.msbuild/3.1.0/coverlet.msbuild.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

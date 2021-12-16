@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/ubuntu20/.dotnet/store/|arch|/|tfm|",
+      "/home/ubuntu20/.nuget/packages"
+    ]
+  }
+}

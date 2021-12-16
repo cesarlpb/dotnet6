@@ -1,0 +1,31 @@
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/bin/Debug/net5.0/MailValidator.exe
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/bin/Debug/net5.0/MailValidator.deps.json
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/bin/Debug/net5.0/MailValidator.runtimeconfig.json
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/bin/Debug/net5.0/MailValidator.runtimeconfig.dev.json
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/bin/Debug/net5.0/MailValidator.dll
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/bin/Debug/net5.0/ref/MailValidator.dll
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/bin/Debug/net5.0/MailValidator.pdb
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/obj/Debug/net5.0/MailValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/obj/Debug/net5.0/MailValidator.AssemblyInfoInputs.cache
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/obj/Debug/net5.0/MailValidator.AssemblyInfo.cs
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/obj/Debug/net5.0/MailValidator.csproj.CoreCompileInputs.cache
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/obj/Debug/net5.0/MailValidator.dll
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/obj/Debug/net5.0/ref/MailValidator.dll
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/obj/Debug/net5.0/MailValidator.pdb
+C:/Users/cesar/source/FormacionNET5/Sesion 8/MailValidator/obj/Debug/net5.0/MailValidator.genruntimeconfig.cache
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/bin/Debug/net5.0/MailValidator
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/bin/Debug/net5.0/MailValidator.deps.json
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/bin/Debug/net5.0/MailValidator.runtimeconfig.json
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/bin/Debug/net5.0/MailValidator.runtimeconfig.dev.json
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/bin/Debug/net5.0/MailValidator.dll
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/bin/Debug/net5.0/ref/MailValidator.dll
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/bin/Debug/net5.0/MailValidator.pdb
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/obj/Debug/net5.0/MailValidator.csproj.AssemblyReference.cache
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/obj/Debug/net5.0/MailValidator.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/obj/Debug/net5.0/MailValidator.AssemblyInfoInputs.cache
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/obj/Debug/net5.0/MailValidator.AssemblyInfo.cs
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/obj/Debug/net5.0/MailValidator.csproj.CoreCompileInputs.cache
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/obj/Debug/net5.0/MailValidator.dll
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/obj/Debug/net5.0/ref/MailValidator.dll
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/obj/Debug/net5.0/MailValidator.pdb
+/home/ubuntu20/Documents/dotnet6/4-6-Testing-ErrorMng-Sockets/MailValidator/obj/Debug/net5.0/MailValidator.genruntimeconfig.cache
