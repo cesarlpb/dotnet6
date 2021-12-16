@@ -1,0 +1,16 @@
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\bin\Debug\net5.0\TestsEnConsola.exe
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\bin\Debug\net5.0\TestsEnConsola.deps.json
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\bin\Debug\net5.0\TestsEnConsola.runtimeconfig.json
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\bin\Debug\net5.0\TestsEnConsola.runtimeconfig.dev.json
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\bin\Debug\net5.0\TestsEnConsola.dll
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\bin\Debug\net5.0\ref\TestsEnConsola.dll
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\bin\Debug\net5.0\TestsEnConsola.pdb
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\obj\Debug\net5.0\TestsEnConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\obj\Debug\net5.0\TestsEnConsola.AssemblyInfoInputs.cache
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\obj\Debug\net5.0\TestsEnConsola.AssemblyInfo.cs
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\obj\Debug\net5.0\TestsEnConsola.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\obj\Debug\net5.0\TestsEnConsola.dll
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\obj\Debug\net5.0\ref\TestsEnConsola.dll
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\obj\Debug\net5.0\TestsEnConsola.pdb
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\obj\Debug\net5.0\TestsEnConsola.genruntimeconfig.cache
+C:\Users\cesar\source\FormacionNET5\Sesion 8\TestsEnConsola\obj\Debug\net5.0\TestsEnConsola.csproj.AssemblyReference.cache
