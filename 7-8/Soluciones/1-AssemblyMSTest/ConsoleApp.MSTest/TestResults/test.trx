@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="a3fe1bcb-9733-4bd3-a27d-f52a8f7c08ad" name="@ubuntu20-VirtualBox 2021-12-18 07:59:32" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-12-18T07:59:32.4669614-05:00" queuing="2021-12-18T07:59:32.4669615-05:00" start="2021-12-18T07:59:30.6508966-05:00" finish="2021-12-18T07:59:32.4832582-05:00" />
+  <TestSettings name="default" id="ba2f6c92-7e52-47f7-aa80-693d10dcae9b">
+    <Deployment runDeploymentRoot="_ubuntu20-VirtualBox_2021-12-18_07_59_32" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="a163ff0e-53ad-4ff3-86fa-735cec2de078" testId="05172684-6d1a-4a33-a65c-6cb3f4ce20bd" testName="Test1" computerName="ubuntu20-VirtualBox" duration="00:00:00.0054513" startTime="2021-12-18T07:59:32.1354701-05:00" endTime="2021-12-18T07:59:32.1609638-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a163ff0e-53ad-4ff3-86fa-735cec2de078">
+      <Output>
+        <StdOut>ctor
+TestInitialize
+TestCleanup
+Dispose</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Test1" storage="/home/ubuntu20/documents/dotnet6/7-8/soluciones/1-assemblymstest/consoleapp.mstest/bin/debug/net6.0/consoleapp.mstest.dll" id="05172684-6d1a-4a33-a65c-6cb3f4ce20bd">
+      <Execution id="a163ff0e-53ad-4ff3-86fa-735cec2de078" />
+      <TestMethod codeBase="/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/1-AssemblyMSTest/ConsoleApp.MSTest/bin/Debug/net6.0/ConsoleApp.MSTest.dll" adapterTypeName="executor://mstestadapter/v2" className="ConsoleApp.MSTest.TestClass1" name="Test1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="05172684-6d1a-4a33-a65c-6cb3f4ce20bd" executionId="a163ff0e-53ad-4ff3-86fa-735cec2de078" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
