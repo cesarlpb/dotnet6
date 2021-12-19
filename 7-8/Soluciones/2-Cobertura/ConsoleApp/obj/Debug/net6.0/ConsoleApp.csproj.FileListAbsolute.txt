@@ -1,0 +1,15 @@
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/bin/Debug/net6.0/ConsoleApp
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/bin/Debug/net6.0/ConsoleApp.deps.json
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/bin/Debug/net6.0/ConsoleApp.runtimeconfig.json
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/bin/Debug/net6.0/ConsoleApp.dll
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/bin/Debug/net6.0/ref/ConsoleApp.dll
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/bin/Debug/net6.0/ConsoleApp.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.AssemblyReference.cache
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/obj/Debug/net6.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfo.cs
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/obj/Debug/net6.0/ConsoleApp.dll
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/obj/Debug/net6.0/ref/ConsoleApp.dll
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/obj/Debug/net6.0/ConsoleApp.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/2-Cobertura/ConsoleApp/obj/Debug/net6.0/ConsoleApp.genruntimeconfig.cache
