@@ -1,0 +1,15 @@
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/bin/Debug/net6.0/GlobalExceptionHandler
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/bin/Debug/net6.0/GlobalExceptionHandler.deps.json
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/bin/Debug/net6.0/GlobalExceptionHandler.runtimeconfig.json
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/bin/Debug/net6.0/GlobalExceptionHandler.dll
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/bin/Debug/net6.0/ref/GlobalExceptionHandler.dll
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/bin/Debug/net6.0/GlobalExceptionHandler.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/obj/Debug/net6.0/GlobalExceptionHandler.csproj.AssemblyReference.cache
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/obj/Debug/net6.0/GlobalExceptionHandler.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/obj/Debug/net6.0/GlobalExceptionHandler.AssemblyInfoInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/obj/Debug/net6.0/GlobalExceptionHandler.AssemblyInfo.cs
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/obj/Debug/net6.0/GlobalExceptionHandler.csproj.CoreCompileInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/obj/Debug/net6.0/GlobalExceptionHandler.dll
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/obj/Debug/net6.0/ref/GlobalExceptionHandler.dll
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/obj/Debug/net6.0/GlobalExceptionHandler.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/5-GlobalExceptionHandler/GlobalExceptionHandler/obj/Debug/net6.0/GlobalExceptionHandler.genruntimeconfig.cache
