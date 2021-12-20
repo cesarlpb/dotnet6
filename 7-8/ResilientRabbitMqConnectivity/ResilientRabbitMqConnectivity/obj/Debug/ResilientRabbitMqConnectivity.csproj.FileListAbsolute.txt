@@ -1,0 +1,11 @@
+C:\Users\cesar\Desktop\dotnet6\7-8\ResilientRabbitMqConnectivity\ResilientRabbitMqConnectivity\bin\Debug\ResilientRabbitMqConnectivity.exe.config
+C:\Users\cesar\Desktop\dotnet6\7-8\ResilientRabbitMqConnectivity\ResilientRabbitMqConnectivity\bin\Debug\ResilientRabbitMqConnectivity.exe
+C:\Users\cesar\Desktop\dotnet6\7-8\ResilientRabbitMqConnectivity\ResilientRabbitMqConnectivity\bin\Debug\ResilientRabbitMqConnectivity.pdb
+C:\Users\cesar\Desktop\dotnet6\7-8\ResilientRabbitMqConnectivity\ResilientRabbitMqConnectivity\bin\Debug\RabbitMQ.Client.dll
+C:\Users\cesar\Desktop\dotnet6\7-8\ResilientRabbitMqConnectivity\ResilientRabbitMqConnectivity\bin\Debug\RabbitMQ.Client.xml
+C:\Users\cesar\Desktop\dotnet6\7-8\ResilientRabbitMqConnectivity\ResilientRabbitMqConnectivity\obj\Debug\ResilientRabbitMqConnectivity.csproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\dotnet6\7-8\ResilientRabbitMqConnectivity\ResilientRabbitMqConnectivity\obj\Debug\ResilientRabbitMqConnectivity.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\Desktop\dotnet6\7-8\ResilientRabbitMqConnectivity\ResilientRabbitMqConnectivity\obj\Debug\ResilientRabbitMqConnectivity.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\dotnet6\7-8\ResilientRabbitMqConnectivity\ResilientRabbitMqConnectivity\obj\Debug\ResilientRabbitMqConnectivity.csproj.CopyComplete
+C:\Users\cesar\Desktop\dotnet6\7-8\ResilientRabbitMqConnectivity\ResilientRabbitMqConnectivity\obj\Debug\ResilientRabbitMqConnectivity.exe
+C:\Users\cesar\Desktop\dotnet6\7-8\ResilientRabbitMqConnectivity\ResilientRabbitMqConnectivity\obj\Debug\ResilientRabbitMqConnectivity.pdb
