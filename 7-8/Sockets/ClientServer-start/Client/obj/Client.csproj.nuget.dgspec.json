@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ubuntu20/Documents/dotnet6/7-8/Sockets/Client/Client.csproj": {}
+    "/home/ubuntu20/Documents/dotnet6/7-8/Sockets/ClientServer-start/Client/Client.csproj": {}
   },
   "projects": {
-    "/home/ubuntu20/Documents/dotnet6/7-8/Sockets/Client/Client.csproj": {
+    "/home/ubuntu20/Documents/dotnet6/7-8/Sockets/ClientServer-start/Client/Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ubuntu20/Documents/dotnet6/7-8/Sockets/Client/Client.csproj",
+        "projectUniqueName": "/home/ubuntu20/Documents/dotnet6/7-8/Sockets/ClientServer-start/Client/Client.csproj",
         "projectName": "Client",
-        "projectPath": "/home/ubuntu20/Documents/dotnet6/7-8/Sockets/Client/Client.csproj",
+        "projectPath": "/home/ubuntu20/Documents/dotnet6/7-8/Sockets/ClientServer-start/Client/Client.csproj",
         "packagesPath": "/home/ubuntu20/.nuget/packages/",
-        "outputPath": "/home/ubuntu20/Documents/dotnet6/7-8/Sockets/Client/obj/",
+        "outputPath": "/home/ubuntu20/Documents/dotnet6/7-8/Sockets/ClientServer-start/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ubuntu20/.nuget/NuGet/NuGet.Config"

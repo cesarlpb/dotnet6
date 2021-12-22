@@ -1,0 +1,17 @@
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/bin/Debug/net6.0/ReceiveLogsDirect
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/bin/Debug/net6.0/ReceiveLogsDirect.deps.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/bin/Debug/net6.0/ReceiveLogsDirect.runtimeconfig.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/bin/Debug/net6.0/ReceiveLogsDirect.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/bin/Debug/net6.0/ref/ReceiveLogsDirect.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/bin/Debug/net6.0/ReceiveLogsDirect.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.csproj.AssemblyReference.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.AssemblyInfoInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.AssemblyInfo.cs
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.csproj.CoreCompileInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.csproj.CopyComplete
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/obj/Debug/net6.0/ref/ReceiveLogsDirect.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsDirect/obj/Debug/net6.0/ReceiveLogsDirect.genruntimeconfig.cache

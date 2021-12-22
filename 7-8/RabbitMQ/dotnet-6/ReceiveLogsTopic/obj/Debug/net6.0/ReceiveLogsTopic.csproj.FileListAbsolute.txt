@@ -1,0 +1,17 @@
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/bin/Debug/net6.0/ReceiveLogsTopic
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/bin/Debug/net6.0/ReceiveLogsTopic.deps.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/bin/Debug/net6.0/ReceiveLogsTopic.runtimeconfig.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/bin/Debug/net6.0/ReceiveLogsTopic.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/bin/Debug/net6.0/ref/ReceiveLogsTopic.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/bin/Debug/net6.0/ReceiveLogsTopic.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.csproj.AssemblyReference.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.AssemblyInfoInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.AssemblyInfo.cs
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.csproj.CoreCompileInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.csproj.CopyComplete
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/obj/Debug/net6.0/ref/ReceiveLogsTopic.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogsTopic/obj/Debug/net6.0/ReceiveLogsTopic.genruntimeconfig.cache

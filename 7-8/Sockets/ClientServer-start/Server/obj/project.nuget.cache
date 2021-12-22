@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FFFvKMcqrD91jN1m0KpGYWUUB5HD6Rm7AvL4qFDm/wTJEbx+Sy31kQVqelqkTp1cc/BkJCVWkpRxwVqdQSDSjQ==",
+  "dgSpecHash": "p/DH8vUniiQSi7Lx29k24s4eKo9t4kNBxBpEwmBWedpu/2fQVJMs/hOkehtPK5qPvwRqclC4un6ZcdnSrXtrgw==",
   "success": true,
-  "projectFilePath": "/home/ubuntu20/Documents/dotnet6/7-8/Sockets/Server/Server.csproj",
+  "projectFilePath": "/home/ubuntu20/Documents/dotnet6/7-8/Sockets/ClientServer-start/Server/Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

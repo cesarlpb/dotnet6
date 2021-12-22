@@ -1,0 +1,17 @@
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/bin/Debug/net6.0/EmitLogTopic
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/bin/Debug/net6.0/EmitLogTopic.deps.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/bin/Debug/net6.0/EmitLogTopic.runtimeconfig.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/bin/Debug/net6.0/EmitLogTopic.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/bin/Debug/net6.0/ref/EmitLogTopic.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/bin/Debug/net6.0/EmitLogTopic.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/obj/Debug/net6.0/EmitLogTopic.csproj.AssemblyReference.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/obj/Debug/net6.0/EmitLogTopic.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/obj/Debug/net6.0/EmitLogTopic.AssemblyInfoInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/obj/Debug/net6.0/EmitLogTopic.AssemblyInfo.cs
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/obj/Debug/net6.0/EmitLogTopic.csproj.CoreCompileInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/obj/Debug/net6.0/EmitLogTopic.csproj.CopyComplete
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/obj/Debug/net6.0/EmitLogTopic.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/obj/Debug/net6.0/ref/EmitLogTopic.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/obj/Debug/net6.0/EmitLogTopic.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/obj/Debug/net6.0/EmitLogTopic.genruntimeconfig.cache

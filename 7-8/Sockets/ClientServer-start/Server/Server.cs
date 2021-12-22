@@ -20,29 +20,34 @@ public class Server
     }
     public void Start()
     {
+        Console.WriteLine("Esperando conexión...");
+        client = server.Accept();
+        /*
         Thread t;
-        while(true){
-            Console.WriteLine("Esperando conexión...");
-            client = server.Accept();
-            t = new Thread(clientConnect);
-            t.Start(client);
-            Console.WriteLine("Se ha conectado un cliente...");
-        }
+        t = new Thread(clientConnect);
+        t.Start(client);
+        */
+        Console.WriteLine("Se ha conectado un cliente...");
+        clientConnect();
     }
-    public void clientConnect(object obj){
-        Socket client = (Socket)obj;
+    public void clientConnect(){
+        //Socket client = (Socket)obj;
         byte[] buffer;
         string message;
-        int len;
-        while(true){
-            buffer = new byte[1024];
-            client.Receive(buffer);
-            message = Encoding.ASCII.GetString(buffer);
-            len = message.IndexOf('\0');
-            if(len > 0)
-                message = message.Substring(0,len);
-            Console.WriteLine($"Se recibió el mensaje: {message}");
-            Console.Out.Flush();
-        }
+        
+
+        buffer = new byte[1024];
+        client.Receive(buffer);
+        message = Encoding.ASCII.GetString(buffer);
+
+        /*
+        int len = 0;
+        len = message.IndexOf('\0');
+        if(len > 0)
+            message = message.Substring(0,len);
+        */
+
+        Console.WriteLine($"Se recibió el mensaje: {message}");
+        //Console.Out.Flush();
     }
 }

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jlhNv05vCeTKyaXEl1SaurUwIzvHTD6fJ0c5Xp92TKFA0L9ElDJlprPEyu4eggwMaX94zLyFjhh17BhzuyAx2Q==",
+  "success": true,
+  "projectFilePath": "/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/EmitLogTopic/EmitLogTopic.csproj",
+  "expectedPackageFiles": [
+    "/home/ubuntu20/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/home/ubuntu20/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/ubuntu20/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/bin/Debug/net6.0/Worker
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/bin/Debug/net6.0/Worker.deps.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/bin/Debug/net6.0/Worker.runtimeconfig.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/bin/Debug/net6.0/Worker.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/bin/Debug/net6.0/ref/Worker.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/bin/Debug/net6.0/Worker.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/obj/Debug/net6.0/Worker.csproj.AssemblyReference.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/obj/Debug/net6.0/Worker.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/obj/Debug/net6.0/Worker.AssemblyInfoInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/obj/Debug/net6.0/Worker.AssemblyInfo.cs
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/obj/Debug/net6.0/Worker.csproj.CoreCompileInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/obj/Debug/net6.0/Worker.csproj.CopyComplete
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/obj/Debug/net6.0/Worker.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/obj/Debug/net6.0/ref/Worker.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/obj/Debug/net6.0/Worker.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/obj/Debug/net6.0/Worker.genruntimeconfig.cache

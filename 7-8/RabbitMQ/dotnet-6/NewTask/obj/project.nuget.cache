@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "23pmQW4NbIxkzxkcA8T+ItMKjQb/2fiRwUp0jmUUQi+vZTHAUZ48fDrKdv1r3HSohFnFCZ8qOW3yHN4rBKIX1Q==",
+  "success": true,
+  "projectFilePath": "/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/NewTask/NewTask.csproj",
+  "expectedPackageFiles": [
+    "/home/ubuntu20/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/home/ubuntu20/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/ubuntu20/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

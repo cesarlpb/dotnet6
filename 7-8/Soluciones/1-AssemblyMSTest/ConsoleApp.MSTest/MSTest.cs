@@ -6,6 +6,8 @@ namespace ConsoleApp.MSTest;
 [TestClass]
 public class TestClass1 : IDisposable
 {
+    [AssemblyInitialize]
+    //
     // 1. Called once before each test
     public TestClass1()
     {
@@ -37,4 +39,6 @@ public class TestClass1 : IDisposable
     {
         Console.WriteLine("Dispose");
     }
+    [AssemblyCleanup]
+    //
 }

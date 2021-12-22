@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G9LfaQBHjmXBrg6at3rPsrGRC9R6+HtOBgK1SxNVicsygLv96+mN3qFBpit4Am0RO5e6eml/wfOfdQn448wo5Q==",
+  "dgSpecHash": "EMylbUQeKEy9xX/cSufxq65Ehh7Qbgfjm6NoWkB2Su0QbZogj/CvG+ghwME/+uSVRVuq2MFa0yijxg+D3IDG8g==",
   "success": true,
-  "projectFilePath": "/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/1-DatosTipadosDeJSON/ConsoleAppSettings.csproj",
+  "projectFilePath": "/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/0-DatosTipadosJSON/ConsoleAppSettings.csproj",
   "expectedPackageFiles": [
     "/home/ubuntu20/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "/home/ubuntu20/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

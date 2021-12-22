@@ -1,0 +1,17 @@
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/bin/Debug/net6.0/ReceiveLogs
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/bin/Debug/net6.0/ReceiveLogs.deps.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/bin/Debug/net6.0/ReceiveLogs.runtimeconfig.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/bin/Debug/net6.0/ReceiveLogs.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/bin/Debug/net6.0/ref/ReceiveLogs.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/bin/Debug/net6.0/ReceiveLogs.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/obj/Debug/net6.0/ReceiveLogs.csproj.AssemblyReference.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/obj/Debug/net6.0/ReceiveLogs.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/obj/Debug/net6.0/ReceiveLogs.AssemblyInfoInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/obj/Debug/net6.0/ReceiveLogs.AssemblyInfo.cs
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/obj/Debug/net6.0/ReceiveLogs.csproj.CoreCompileInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/obj/Debug/net6.0/ReceiveLogs.csproj.CopyComplete
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/obj/Debug/net6.0/ReceiveLogs.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/obj/Debug/net6.0/ref/ReceiveLogs.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/obj/Debug/net6.0/ReceiveLogs.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/ReceiveLogs/obj/Debug/net6.0/ReceiveLogs.genruntimeconfig.cache

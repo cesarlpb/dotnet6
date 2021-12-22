@@ -1,0 +1,17 @@
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/bin/Debug/net6.0/RPCClient
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/bin/Debug/net6.0/RPCClient.deps.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/bin/Debug/net6.0/RPCClient.runtimeconfig.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/bin/Debug/net6.0/RPCClient.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/bin/Debug/net6.0/ref/RPCClient.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/bin/Debug/net6.0/RPCClient.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/obj/Debug/net6.0/RPCClient.csproj.AssemblyReference.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/obj/Debug/net6.0/RPCClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/obj/Debug/net6.0/RPCClient.AssemblyInfoInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/obj/Debug/net6.0/RPCClient.AssemblyInfo.cs
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/obj/Debug/net6.0/RPCClient.csproj.CoreCompileInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/obj/Debug/net6.0/RPCClient.csproj.CopyComplete
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/obj/Debug/net6.0/RPCClient.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/obj/Debug/net6.0/ref/RPCClient.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/obj/Debug/net6.0/RPCClient.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/RPCClient/obj/Debug/net6.0/RPCClient.genruntimeconfig.cache

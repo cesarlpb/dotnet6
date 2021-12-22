@@ -1,0 +1,17 @@
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/bin/Debug/net6.0/PublisherConfirms
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/bin/Debug/net6.0/PublisherConfirms.deps.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/bin/Debug/net6.0/PublisherConfirms.runtimeconfig.json
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/bin/Debug/net6.0/PublisherConfirms.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/bin/Debug/net6.0/ref/PublisherConfirms.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/bin/Debug/net6.0/PublisherConfirms.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/obj/Debug/net6.0/PublisherConfirms.csproj.AssemblyReference.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/obj/Debug/net6.0/PublisherConfirms.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/obj/Debug/net6.0/PublisherConfirms.AssemblyInfoInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/obj/Debug/net6.0/PublisherConfirms.AssemblyInfo.cs
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/obj/Debug/net6.0/PublisherConfirms.csproj.CoreCompileInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/obj/Debug/net6.0/PublisherConfirms.csproj.CopyComplete
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/obj/Debug/net6.0/PublisherConfirms.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/obj/Debug/net6.0/ref/PublisherConfirms.dll
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/obj/Debug/net6.0/PublisherConfirms.pdb
+/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/PublisherConfirms/obj/Debug/net6.0/PublisherConfirms.genruntimeconfig.cache

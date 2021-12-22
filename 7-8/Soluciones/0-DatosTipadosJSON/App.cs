@@ -23,12 +23,11 @@ namespace ConsoleAppSettings
             // Fetching the data from appsettings
             List<string> emailAddresses = _config.GetSection("EmailAddresses").Get<List<string>>();
             List<string> strNumbersList = _config.GetSection("Numbers").Get<List<string>>();
-            //List<string> jsonList = _config.GetSection("MyObject").Get<List<string>>();
+            
             Dictionary<string,string> jsonDict = _config
                 .GetSection("MyObject")
                 .Get<Dictionary<string,string>>();
-            //string json = JsonConvert.SerializeObject(settings);
-            // Passing List<string> elements into List<int>
+            
             List<int> intNumbersList = strNumbersList.Select(int.Parse).ToList();
             
             // Writing the lists

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/1-DatosTipadosDeJSON/ConsoleAppSettings.csproj": {}
+    "/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/0-DatosTipadosJSON/ConsoleAppSettings.csproj": {}
   },
   "projects": {
-    "/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/1-DatosTipadosDeJSON/ConsoleAppSettings.csproj": {
+    "/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/0-DatosTipadosJSON/ConsoleAppSettings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/1-DatosTipadosDeJSON/ConsoleAppSettings.csproj",
+        "projectUniqueName": "/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/0-DatosTipadosJSON/ConsoleAppSettings.csproj",
         "projectName": "ConsoleAppSettings",
-        "projectPath": "/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/1-DatosTipadosDeJSON/ConsoleAppSettings.csproj",
+        "projectPath": "/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/0-DatosTipadosJSON/ConsoleAppSettings.csproj",
         "packagesPath": "/home/ubuntu20/.nuget/packages/",
-        "outputPath": "/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/1-DatosTipadosDeJSON/obj/",
+        "outputPath": "/home/ubuntu20/Documents/dotnet6/7-8/Soluciones/0-DatosTipadosJSON/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ubuntu20/.nuget/NuGet/NuGet.Config"
