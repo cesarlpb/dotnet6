@@ -13,3 +13,11 @@
 /home/ubuntu20/Documents/dotnet6/7-8/Sockets/Client/obj/Debug/net6.0/ref/Client.dll
 /home/ubuntu20/Documents/dotnet6/7-8/Sockets/Client/obj/Debug/net6.0/Client.pdb
 /home/ubuntu20/Documents/dotnet6/7-8/Sockets/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/obj/Debug/net6.0/Client.dll
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/obj/Debug/net6.0/ref/Client.dll
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/obj/Debug/net6.0/Client.pdb

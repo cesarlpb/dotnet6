@@ -30,4 +30,20 @@ using System.Text;
             client.Send(byteMsg);
             Console.WriteLine($"Hemos enviado el mensaje: {msg}");
         }
+        public string Receive(){
+            byte[] buffer = new byte[1024];
+            client.Receive(buffer);
+            return Byte2String(buffer);
+        }
+        public string Byte2String(byte[] buffer){
+        string message;
+        int endIndex;
+        
+        message = Encoding.ASCII.GetString(buffer);
+        endIndex = message.IndexOf('\0');
+        if(endIndex>0){
+            message = message.Substring(0, endIndex);
+        }
+        return message;
+    }
     }

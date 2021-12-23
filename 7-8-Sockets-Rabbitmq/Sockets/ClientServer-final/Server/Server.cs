@@ -10,7 +10,7 @@ public class Server
 
     public Server (string ip, int port)
     {
-        host = Dns.GetHostEntry(ip);
+        host = Dns.GetHostEntry(ip);    // GetHostByNAme esta deprecated
         ipAddr = host.AddressList[0];
         endPoint = new IPEndPoint(ipAddr, port);
 
@@ -32,17 +32,37 @@ public class Server
     public void clientConnect(object obj){
         Socket client = (Socket)obj;
         byte[] buffer;
-        string message;
-        int len;
+        string user;
+        string password;
+        
         while(true){
             buffer = new byte[1024];
             client.Receive(buffer);
-            message = Encoding.ASCII.GetString(buffer);
-            len = message.IndexOf('\0');
-            if(len > 0)
-                message = message.Substring(0,len);
-            Console.WriteLine($"Se recibió el mensaje: {message}");
-            Console.Out.Flush();
+            user = Byte2String(buffer);
+            
+            buffer = new byte[1024];
+            client.Receive(buffer);
+            password = Byte2String(buffer);
+
+            if(user == "admin" && password == "asdf"){
+                byte[] response = Encoding.ASCII.GetBytes("éxito");
+                client.Send(response);
+            }
+            else {
+                byte[] response = Encoding.ASCII.GetBytes("Algo ha ido mal...");
+                client.Send(response);
+            }
         }
+    }
+    public string Byte2String(byte[] buffer){
+        string message;
+        int endIndex;
+        
+        message = Encoding.ASCII.GetString(buffer);
+        endIndex = message.IndexOf('\0');
+        if(endIndex>0){
+            message = message.Substring(0, endIndex);
+        }
+        return message;
     }
 }
