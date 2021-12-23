@@ -1,0 +1,15 @@
+﻿.chat-content{
+    margin: 2em;
+}
+
+input{
+    width: 100%;
+}
+
+.connect{
+    display: none;
+}
+
+.diisconnect{
+    display: block;
+}

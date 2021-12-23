@@ -1,0 +1,70 @@
+﻿@{
+    //Add Style
+    this.SpinViewPage.AddStyle("/Spin/Module/Chat/Resources/css/home.css");
+
+    //Add Javascript
+    this.SpinViewPage.AddJavaScript("/Spin/Module/Chat/Resources/js/jquery.simple.websocket.js");
+    this.SpinViewPage.AddJavaScript("/Spin/Module/Chat/Resources/js/index.js");
+}
+
+<div class="chat-content">
+    <div class="row justify-content-center">
+        <div class="col-5">
+            <h1>Chat</h1>
+            <div>
+                <div id="connect" class="disconnect">
+                    <div class="row">
+                        <div class="col-2">
+                            <label>Name</label>
+                        </div>
+                        <div class="col">
+                            <input id="userName" name="userName" />
+                        </div>
+                        <div class="col-3">
+                            <button id="btnConnect">
+                                <i class="fas fa-plug"></i>
+                                Connect
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div id="disconnect" class="connect">
+                    <div class="row">
+                        <div class="col">
+                            <button id="btnDisconnect">
+                                <i class="fas fa-times"></i>
+                                Disconnect
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="chat" class="connect">
+                    <div id="chatRecive">
+
+                    </div>
+                    <div class="row">
+                        <div class="col-2">
+                            <label>Message</label>
+                        </div>
+                        <div class="col">
+                            <input id="name" />
+                        </div>
+                        <div class="col-2">
+                            <select id="users">
+                            </select>
+                        </div>
+                        <div class="col-3">
+                            <button id="btnSend">
+                                <i class="far fa-paper-plane"></i>
+                                Send
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+</div>
