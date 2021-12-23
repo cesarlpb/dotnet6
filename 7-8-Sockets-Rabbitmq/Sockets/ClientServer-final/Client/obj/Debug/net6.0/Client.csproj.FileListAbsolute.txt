@@ -21,3 +21,10 @@
 /home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/obj/Debug/net6.0/Client.dll
 /home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/obj/Debug/net6.0/ref/Client.dll
 /home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/obj/Debug/net6.0/Client.pdb
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/bin/Debug/net6.0/Client
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/bin/Debug/net6.0/Client.deps.json
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/bin/Debug/net6.0/Client.dll
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/bin/Debug/net6.0/ref/Client.dll
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/bin/Debug/net6.0/Client.pdb
+/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache

@@ -34,7 +34,12 @@ public class Server
         byte[] buffer;
         string user;
         string password;
-        
+        try{
+
+        }
+        catch (SocketException e){
+            Console.WriteLine($"Se ha desconectado un cliente: {e.Message}");
+        }
         while(true){
             buffer = new byte[1024];
             client.Receive(buffer);
