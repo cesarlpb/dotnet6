@@ -39,17 +39,19 @@ public class Server
             buffer = new byte[1024];
             client.Receive(buffer);
             user = Byte2String(buffer);
+            Console.WriteLine($"user: {user}");
             
             buffer = new byte[1024];
             client.Receive(buffer);
             password = Byte2String(buffer);
+            Console.WriteLine($"password: {password}");
 
             if(user == "admin" && password == "asdf"){
-                byte[] response = Encoding.ASCII.GetBytes("éxito");
+                byte[] response = Encoding.ASCII.GetBytes("success!");
                 client.Send(response);
             }
             else {
-                byte[] response = Encoding.ASCII.GetBytes("Algo ha ido mal...");
+                byte[] response = Encoding.ASCII.GetBytes("failed!");
                 client.Send(response);
             }
         }

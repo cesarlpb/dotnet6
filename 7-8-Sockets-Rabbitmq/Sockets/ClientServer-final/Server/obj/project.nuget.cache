@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FFFvKMcqrD91jN1m0KpGYWUUB5HD6Rm7AvL4qFDm/wTJEbx+Sy31kQVqelqkTp1cc/BkJCVWkpRxwVqdQSDSjQ==",
+  "dgSpecHash": "74sbkX8J+pYlk6irQQ2p/flZq0FyunUmylxDcbgk0a6/PQbrEvreYkibB4U5TZt6usGXK7qiqUZAJYNC47Pxow==",
   "success": true,
-  "projectFilePath": "/home/ubuntu20/Documents/dotnet6/7-8/Sockets/Server/Server.csproj",
+  "projectFilePath": "/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/ClientServer-final/Server/Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
