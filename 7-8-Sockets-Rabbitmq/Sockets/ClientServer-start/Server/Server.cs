@@ -10,6 +10,7 @@ public class Server
 
     public Server (string ip, int port)
     {
+        // Dns.GetHostByName(ip) -> obsoleto
         host = Dns.GetHostEntry(ip);
         ipAddr = host.AddressList[0];
         endPoint = new IPEndPoint(ipAddr, port);
@@ -34,7 +35,6 @@ public class Server
         //Socket client = (Socket)obj;
         byte[] buffer;
         string message;
-        
 
         buffer = new byte[1024];
         client.Receive(buffer);

@@ -159,7 +159,7 @@ namespace HttpServer
             if (args.Length > 0)
                 port = int.Parse(args[0]);
             // HTTP server content path
-            string www = "../../../../../www/api";
+            string www = "../../www/api";
             if (args.Length > 1)
                 www = args[1];
 

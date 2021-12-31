@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RVVSiD1UKEqcT2pHq4Me3e6N+oYa3oPYNChlBM/z88v1kWkqvPSmYevE0D6RClHY7Ud4OhBzFC6EZ6I/BZ9iuQ==",
+  "dgSpecHash": "HwY32h/iT97VZIKu97H/XQAxRr5vW7F1yUAnSDGCwmP7WXv1mRRbwR5h8903sdZRQ+sbgW2sPyhpbPmk75hP4Q==",
   "success": true,
-  "projectFilePath": "/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/Worker.csproj",
+  "projectFilePath": "/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/RabbitMQ/dotnet-6/Worker/Worker.csproj",
   "expectedPackageFiles": [
     "/home/ubuntu20/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
     "/home/ubuntu20/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",

@@ -35,11 +35,6 @@ public class Server
         string user;
         string password;
         try{
-
-        }
-        catch (SocketException e){
-            Console.WriteLine($"Se ha desconectado un cliente: {e.Message}");
-        }
         while(true){
             buffer = new byte[1024];
             client.Receive(buffer);
@@ -59,6 +54,10 @@ public class Server
                 byte[] response = Encoding.ASCII.GetBytes("failed!");
                 client.Send(response);
             }
+        }
+        }
+        catch (SocketException e){
+            Console.WriteLine($"Se ha desconectado un cliente: {e.Message}");
         }
     }
     public string Byte2String(byte[] buffer){

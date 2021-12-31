@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/Worker.csproj",
+      "projectUniqueName": "/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/RabbitMQ/dotnet-6/Worker/Worker.csproj",
       "projectName": "Worker",
-      "projectPath": "/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/Worker.csproj",
+      "projectPath": "/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/RabbitMQ/dotnet-6/Worker/Worker.csproj",
       "packagesPath": "/home/ubuntu20/.nuget/packages/",
-      "outputPath": "/home/ubuntu20/Documents/dotnet6/7-8/RabbitMQ/dotnet-6/Worker/obj/",
+      "outputPath": "/home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/RabbitMQ/dotnet-6/Worker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ubuntu20/.nuget/NuGet/NuGet.Config"

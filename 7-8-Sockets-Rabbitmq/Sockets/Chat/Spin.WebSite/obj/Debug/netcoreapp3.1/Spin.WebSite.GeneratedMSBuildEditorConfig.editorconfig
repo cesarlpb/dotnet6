@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Spin.WebSite
+build_property.ProjectDir = /home/ubuntu20/Documents/dotnet6/7-8-Sockets-Rabbitmq/Sockets/Chat/Spin.WebSite/
